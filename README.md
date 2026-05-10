@@ -1,1 +1,1 @@
-# My Keycloak initialization script for Django integration.
+# My Keycloak bootstrap script for Django integration.
