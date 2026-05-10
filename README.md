@@ -1,0 +1,1 @@
+# My Keycloak initialization script for Django integration.

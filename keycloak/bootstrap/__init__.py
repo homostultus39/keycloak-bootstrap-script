@@ -1,0 +1,1 @@
+"""Idempotent Keycloak bootstrap package."""
